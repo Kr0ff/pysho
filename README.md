@@ -11,6 +11,7 @@ git clone https://github.com/Kr0ff/pysho
 python -m pip install -r requirements.txt
 chmod +x pysho.py
 ./pysho
+```
 ------
 Example usage:
 ```
